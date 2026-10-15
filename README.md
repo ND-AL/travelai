@@ -73,3 +73,6 @@ docker compose exec ollama ollama pull llama3.2   # une seule fois
 Application : http://localhost:5000
 
 Les données (`database.json`) sont conservées dans le volume `travelai_data`.
+
+
+tessssssssssssst
